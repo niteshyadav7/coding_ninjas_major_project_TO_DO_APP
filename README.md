@@ -1,6 +1,9 @@
 # coding_ninjas_major_project_TO_DO_APP
 
-# YOU CAN START BY USING :npm start
+# YOU CAN START ON YOUR SYSTEM BY SIMPLE STEPS:BY NITESH YADAV😉😉
+* GO TO GITHUB and Clone:https://github.com/niteshyadav7/coding_ninjas_major_project_TO_DO_APP.git
+* cmd :npm install =>to install all dependencies
+* cmd :npm start =>to run 
 
 ## Overview
 
