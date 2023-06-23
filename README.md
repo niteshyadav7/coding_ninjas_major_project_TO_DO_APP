@@ -1,5 +1,7 @@
 # coding_ninjas_major_project_TO_DO_APP
 
+# YOU CAN START BY USING :npm start
+
 ## Overview
 
 It is a simple TODO application using NodeJS and MongDB. where a user of this application can create,edit and delete all the ToDo items .
